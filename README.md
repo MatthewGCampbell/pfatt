@@ -189,7 +189,8 @@ Choose which Method is the best for you.
   only gives you one address.
 ## ~~Completely Bypassing the NAT and giving the device the static IP:~~ ##
 ### In Progress ###
-> __Should only be used if you know what you are doing__
+> __Should only be used if you know what you are doing, I did not and needed help
+from the community__
 
 1. **If you pfsense has multiple interfaces:**
 
